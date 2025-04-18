@@ -1,0 +1,12 @@
+Title: NFT Data Automation (looksrare), and ETL tool
+
+Client Background
+Client: A leading tech firm in the USA
+Industry Type: IT Services
+Services: Blockchain, NFT
+Organization Size: 10+
+Project Objective
+To scrape all the desired information regarding the NFTs from a website and store them in a database to be accessed later on.
+Project Description
+Matthew Brown – extract all events, all time from this https://looksrare.org/explore/activity . We can then pay you weekly to keep them up to date. You can choose any technology you like, as long as it’s updated into an SQL database. Additional tasks may be to make an alert or dashboard from data, later access API when it becomes available.
+Our Solution

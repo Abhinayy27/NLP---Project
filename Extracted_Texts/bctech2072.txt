@@ -1,0 +1,10 @@
+Title: Advanced AI for Pedestrian Crossing Safety
+
+Client Background
+Client: A leading tech firm in the Middle East
+Industry Type:  Security
+Services: Security services
+Organization Size: 100+
+The Problem
+Traffic Signals are inefficient because even if there are no cars or no pedestrians on the road it still works on a timer and stops the traffic or pedestrian unnecessarily.
+Our Solution

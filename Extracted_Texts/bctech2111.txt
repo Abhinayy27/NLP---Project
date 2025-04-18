@@ -1,0 +1,12 @@
+Title: Power BI dashboard to drive insights from complex data to generate business insights
+
+Client Background
+Client: A leading marketing firm in the USA
+Industry Type:  Market Research
+Services: Marketing, Consultancy
+Organization Size: 100+
+Project Description
+Phase – 1: In this project first of all we have made heatmap between two columns named Author and Data Source. Then after two combining two tables named NY_data and nodeid_views made the report of all of the data.
+Phase – 2: Success of story was given by if pageviews is more than 35000, if pageviews lies between 3500-35000 the story was labelled as needs improvement and if it was below 3500 the story was labelled as failure.
+Phase – 3: The powerbi report was made to find different insights in the data like different tables were drawn between different attributes of data like pie chart, time series chart, comparison charts. The data is updated every week and the report is generated automatically.
+Our Solution

@@ -1,0 +1,34 @@
+Title: Immigration Datawarehouse & AI-based recommendations
+
+Client Background
+Client: A leading business school worldwide
+Industry Type:  R&D
+Services: R&D, Innovation
+Organization Size: 100+
+Project Objective
+Objective of this project is to research and collect news article data sourcing from Canada, based on the keyword.
+Project Description
+There were 3 phases of the project.
+Phase 1– Data collection and selectionData related to anyone coming to Canada (new comers)Data related to anyone coming to Canada (new comers) Canadian policy to new comersi.e. from any country to CanadaData containing News, press, think tanks, government policy documents, or research institutions releasing the news or press aboutThe news source should be limited to Canada onlyTime span- 2005 to 2021Output- Excel having URLs or the documents along with the source type, keywords, and date on which that article is posted.
+Phase 1– Data collection and selectionData related to anyone coming to Canada (new comers)Data related to anyone coming to Canada (new comers) Canadian policy to new comersi.e. from any country to CanadaData containing News, press, think tanks, government policy documents, or research institutions releasing the news or press aboutThe news source should be limited to Canada onlyTime span- 2005 to 2021Output- Excel having URLs or the documents along with the source type, keywords, and date on which that article is posted.
+Data related to anyone coming to Canada (new comers)Data related to anyone coming to Canada (new comers) Canadian policy to new comersi.e. from any country to CanadaData containing News, press, think tanks, government policy documents, or research institutions releasing the news or press aboutThe news source should be limited to Canada onlyTime span- 2005 to 2021Output- Excel having URLs or the documents along with the source type, keywords, and date on which that article is posted.
+Data related to anyone coming to Canada (new comers)
+Data related to anyone coming to Canada (new comers)
+Canadian policy to new comers
+i.e. from any country to Canada
+Data containing News, press, think tanks, government policy documents, or research institutions releasing the news or press about
+The news source should be limited to Canada only
+Time span- 2005 to 2021
+Output- Excel having URLs or the documents along with the source type, keywords, and date on which that article is posted.
+Phase 2– Documents text data extraction Develop tool to collect and extract data from each URL.Clean and save the texts in the text documents
+Phase 2– Documents text data extraction Develop tool to collect and extract data from each URL.Clean and save the texts in the text documents
+Develop tool to collect and extract data from each URL.Clean and save the texts in the text documents
+Develop tool to collect and extract data from each URL.
+Clean and save the texts in the text documents
+Phase 3– Textual AnalysisSentiment AnalysisAnalysis of readabilityTopic modelling
+Phase 3– Textual AnalysisSentiment AnalysisAnalysis of readabilityTopic modelling
+Sentiment AnalysisAnalysis of readabilityTopic modelling
+Sentiment Analysis
+Analysis of readability
+Topic modelling
+Our Solution
